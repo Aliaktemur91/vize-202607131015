@@ -17,7 +17,7 @@ Bu proje, bir üniversite hazırlık programında öğrencilere İngilizce prati
 
 ## 📂 Proje Yapısı ve Yönlendirmeler
 
-Hocamızın ve değerlendiricilerin repoda rahatça gezinmesi için dosya yapısı aşağıda özetlenmiştir:
+
 
 * **`sorgular.sql`**: Veritabanı tablosunun oluşturulması (`CREATE TABLE`), 500 satırlık test verisinin ve veri tuzaklarının üretilmesi (`generate_series`) ile 5. hafta analiz sorgularını (`CASE WHEN`, `GROUP BY`, `HAVING`) içerir.
 * **`AI_BEYAN.md`**: Proje sürecinde yararlanılan yapay zeka araçlarının kullanım amacını belirten beyan dosyasıdır.
