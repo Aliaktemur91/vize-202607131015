@@ -1,0 +1,1 @@
+Bu projede açık kaynaklı veri seti seçimi, PostgreSQL sorgularındaki birim dönüşüm (CASE WHEN) mantığının doğrulanması ve rapor taslağının düzenlenmesi amacıyla Google Gemini ve chat gpt kullanılmıştır.
